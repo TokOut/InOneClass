@@ -1,7 +1,7 @@
 -- Win 5
 
 function setup()
-    -- You can change this!!
+    -- You can change this!! Currently not working.
     playersPlaying = 2 -- Maximal: 5 !!
     
     
