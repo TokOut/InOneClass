@@ -1,0 +1,5 @@
+(Array = "Hello World!")
+(Field = 4567)
+(Anything = -45.07)
+(Table = ["Content 1", "Failure", 550.283, [45, "#chilling"])
+(Fail = 'LetItGo')
